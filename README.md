@@ -1,5 +1,5 @@
 # Basic-Chat-Room
-This is a simple chat room appliction and can support multiple users
+This is a simple chat room appliction and can support multiple users(local)
 # Used Headerfiles
 string, 
 queue,
